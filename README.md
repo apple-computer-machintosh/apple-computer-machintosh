@@ -11,6 +11,7 @@
 - Express.js
 - Next.js
 - FastAPI
+- Django
 
 #### Library
 - React
@@ -19,6 +20,7 @@
 #### Others
 - Cloudflare(pages, workers)
 - GitHub Actions
+- Gemini Developer API
 
 <!--
 **apple-computer-machintosh/apple-computer-machintosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
