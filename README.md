@@ -1,4 +1,24 @@
-## Hi there 👋
+## Hi Welcome to my GitHub 👋
+
+### Profile 😄
+#### Language
+- Python
+- TypeScript
+- JavaScript
+- Java
+
+#### Framework
+- Express.js
+- Next.js
+- FastAPI
+
+#### Library
+- React
+- Tailwind CSS
+
+#### Others
+- Cloudflare(pages, workers)
+- GitHub Actions
 
 <!--
 **apple-computer-machintosh/apple-computer-machintosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
